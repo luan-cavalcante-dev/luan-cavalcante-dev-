@@ -1,4 +1,4 @@
-# Olá me chamo Luan Santos Cavalcate 
+# Olá me chamo Luan Santos Cavalcante 
 
 💻 Desenvolvedor em formação **apaixonado por tecnologia, programação e soluções criativas**. 
 📚 Graduando no curso de **Sistema Para Internet -  "Universidade Estadual de Goiás - UEG".**
